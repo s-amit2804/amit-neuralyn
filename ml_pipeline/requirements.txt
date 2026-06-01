@@ -1,0 +1,12 @@
+# MindBridge ML Pipeline — Dependencies
+# Install:  pip install -r ml_pipeline/requirements.txt
+
+openai>=1.0
+torch>=2.0
+transformers>=4.36
+pydantic>=2.0
+python-dotenv>=1.0
+langdetect>=1.0.9
+tenacity>=8.0
+pydub>=0.25
+pytest>=7.0
